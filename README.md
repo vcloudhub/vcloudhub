@@ -32,8 +32,6 @@ Developing a portfolio website to showcase my work and share technical blog post
 🌍 Let's Connect:
 📧 Email: wyattreed96@gmail.com
 
-🌐 LinkedIn: [LinkedIn Profile URL] (if you want to include it)
-
 🌟 Check out my work on GitHub!
 
 I’m always open to new projects, collaborations, and learning opportunities. Feel free to check out my repositories, follow me, and reach out if you’d like to work together!
