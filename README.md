@@ -3,6 +3,8 @@ I’m a self-taught web developer with over 7 years of experience in building an
 
 I’ve worked with clients from diverse industries, developing custom solutions that meet their unique needs. Whether it's creating dynamic web applications or optimizing WordPress sites, I thrive in problem-solving and delivering high-quality, scalable digital solutions.
 
+While I haven't had the chance to contribute to open-source projects recently, my focus has been on delivering high-quality solutions for clients and developing personal projects. I continue to learn and apply new technologies, and I'm looking forward to adding more open-source contributions as I complete current projects.
+
 💻 My Skills:
 Languages & Frameworks: PHP, JavaScript, HTML, CSS, Laravel, WordPress, Drupal, jQuery
 
